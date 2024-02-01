@@ -1,9 +1,16 @@
 {
-  "posts": [
+  "telugumovies": [
     {
       "id": 1,
       "title": "json-server",
-      "author": "typicode"
+      "author": "typicode",
+      "hero": "Chiru"
+    },
+    {
+      "id": 1,
+      "title": "Raja",
+      "author": "typicode",
+      "hero": "Venky"
     }
   ],
   "comments": [
